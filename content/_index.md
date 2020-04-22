@@ -1,6 +1,8 @@
 ---
-title: "Ananke: a Hugo Theme"
+title: "P Diehr"
 featured_image: '/images/gohugo-default-sample-hero-image.jpg'
-description: "The last theme you'll ever need. Maybe."
+description: ""
 ---
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+Hello! I'm a student with a background in accounting and entrepreneurship. I am interested in a wide variety of concepts and my goal is to use this blog to explore these outlets.  
+
+My biggest influences for starting this blog are  [https://guzey.com/](Alexey Guzey) and [https://www.gwern.net/index](Gwern)
