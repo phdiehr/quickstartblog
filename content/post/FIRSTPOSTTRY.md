@@ -1,6 +1,7 @@
 ---
 date: 2017-04-14T11:25:05-04:00
 description: "First Post Try"
+baseURL = "http://pdiehr.com/posts"
 featured_image: ""
 tags: []
 title: "First Post Try"
