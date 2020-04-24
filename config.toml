@@ -1,5 +1,4 @@
 baseURL = "http://pdiehr.com"
 languageCode = "en-us"
-featured_image: ''
 title = "D"
 theme = "ananke"
