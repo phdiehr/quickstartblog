@@ -1,5 +1,5 @@
 baseURL = "http://pdiehr.com"
 languageCode = "en-us"
-featured_image: 'https://www.google.com/search?q=d+old+english+font&tbm=isch&chips=q:d+old+english+font,g_1:calligraphy:_z72mreF60g%3D&rlz=1C5CHFA_enUS724US729&hl=en&ved=2ahUKEwi0i9-W6fzoAhVCHKwKHefDAjoQ4lYoA3oECAEQGw&biw=1320&bih=665#imgrc=3p9mz6-G-5DtRM'
+featured_image: ''
 title = "D"
 theme = "ananke"
